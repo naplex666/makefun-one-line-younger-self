@@ -5,7 +5,7 @@ import { writeFileSync, mkdirSync } from "node:fs";
 import { join } from "node:path";
 
 const line =
-  "Kid, you'll paint a thousand walls for other people, and the paint never washes off your hands — so make the next wall yours.";
+  "Kid, you'll spend years painting a thousand walls for other people, and the paint never washes off your hands — so make the next wall yours.";
 
 const outDir = process.env.MAKEFUN_OUTPUT_DIR ?? "/output";
 mkdirSync(outDir, { recursive: true });

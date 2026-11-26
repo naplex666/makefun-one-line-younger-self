@@ -32,3 +32,13 @@ other people is the entrant's actual day job, and the paint on his hands is
 the physical proof. "Make the next wall yours" is the turn and the sting at
 once: the grind (quests, hackathons, bounties) is exactly him trying to build
 something of his own. One sentence, one breath, no explaining.
+
+## Revision (thinking_revised gate)
+> Kid, you'll spend years painting a thousand walls for other people, and the paint never washes off your hands — so make the next wall yours.
+
+Why the edit: "spend years" adds the lived-time dimension the winner line was
+missing — he didn't just paint the walls, he spent years of his life doing it
+for other people. That sharpens criterion (2) (only this older self, a working
+life measured in years, could say it) and criterion (5) (it stings more,
+because the years are gone), while keeping the same meaning, the same turn,
+one sentence, one breath.
